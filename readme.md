@@ -3,12 +3,19 @@
 https://github.com/pleabargain/python-pizza-app
 
 
+# about me
+I'm not a trained developer. I am a N00b with a keyboard and an itch to scratch.
+
 # motivation
-Everyone else is building one, so why don't I?
+Everyone else is building a pizza ordering app, so why don't I?
 
 And, I was just telling a .jr dev that he should remember the business owner of the pizza joint: reporting on income, pizzas made, etc. Not just the pretty front end. Now I'm knee deep in the problem without much of a plan! 
 
+# requirements
+
+Patience and the ability to pull back and look at the bigger picture.
 ---
+
 # install
 
 I set up a venv for VS Code
@@ -46,13 +53,11 @@ Don't rush, think through the problems!
 
 ---
 -------------------
-# trying to use GPT4 and copilot to build this app
-
-not easy
+# trying to use GPT4 and copilot to build this app is not easy
 
 * GPT4 output is limited
 
-* copilot code awareness is limited e.g. I can't tell copilot to look at the my whole code base. Hell, it's only aware of the file I've selecte!
+* copilot code awareness is limited e.g. I can't tell copilot to look at the my whole code base. Hell, it's only aware of the file I've selected!
 
 
 
