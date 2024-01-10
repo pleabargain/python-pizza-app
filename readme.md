@@ -3,6 +3,9 @@
 https://github.com/pleabargain/python-pizza-app
 
 
+# videos
+https://www.youtube.com/playlist?list=PLikM1nBK3VWTqoaUjvV-2nO2RQ3ePc3S0
+
 # about me
 I'm not a trained developer. I am a N00b with a keyboard and an itch to scratch.
 
